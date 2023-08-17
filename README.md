@@ -1,4 +1,4 @@
-# Exchange Rate Server
+# Go Client Server Api Challenge
 
 This project demonstrates a simple client-server interaction in Go to fetch exchange rates and store them in a SQLite database.
 
