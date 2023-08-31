@@ -17,7 +17,7 @@ The project consists of two main components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/exchange-rate-server.git
+   git clone https://github.com/andrelmm/go-client-server-api-challenge.git
    cd go-client-server-api-challenge
    ```
 
